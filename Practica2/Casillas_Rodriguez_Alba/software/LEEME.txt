@@ -1,6 +1,0 @@
-Este trabajo ha sido hecho por: ALBA CASILLAS RODRÍGUEZ
-
-Nos econtramos en la carpeta "software" , donde tenemos acceso a la carpeta BIN, compuesta por:
-    - CARPETA DATOS : conjuntos de datos disponibles
-    - CARPETA RESTRICCIONES : conjuntos de restricciones disponibles
-    - PRACTICA2.PY : archivo ejecutable de la práctica en python
